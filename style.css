@@ -1,0 +1,59 @@
+h1 {
+    color: aqua;
+
+}
+
+.header {
+    margin-left: 100px;
+    border: #084e66;
+}
+
+body {
+    background-color: #256b85;
+    font-family: 'Amatic SC', cursive;
+}
+
+nav,
+Li {
+    display: inline;
+}
+
+.nav-bar {
+    text-align: center;
+}
+
+.nav-bar a {
+    margin: 30px;
+    color: #c679f7;
+    font-size: 30PX;
+}
+
+.home-header {
+    margin: 30px;
+    background-color: #333232;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: #3f3f3f;
+    border-radius: 10px;
+    box-shadow: 9px 7px 10px 1px #2c2b2b8f;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.main-text {
+    margin: 30px;
+}
+
+a {
+    transition: all 0.14s;
+}
+
+a:hover {
+    background-color: #000000b7;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 7px 5px 4px 1px #0c0c0b;
+}
+
